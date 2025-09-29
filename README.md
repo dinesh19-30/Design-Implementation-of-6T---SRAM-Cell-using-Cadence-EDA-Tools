@@ -53,9 +53,13 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 ## Output
 #### 1. Transient Analysis Output:
 
-<img width="1920" height="1080" alt="VLSI EXP 4 ANALYSIS SS" src="https://github.com/user-attachments/assets/ea891099-ce2b-49b0-8b9e-681ebd952918" />
+<img width="1090" height="605" alt="image" src="https://github.com/user-attachments/assets/2796cd75-5138-4b79-86a3-37ad0d5cefff" />
 
-<img width="1920" height="1080" alt="VLSI EXP  4 OP DIA" src="https://github.com/user-attachments/assets/c601eb48-5146-47e2-bdd2-7a8da1837037" />
+
+
+
+<img width="1096" height="612" alt="image" src="https://github.com/user-attachments/assets/345a965c-b474-4b5a-ad7f-9855d1bb3bd8" />
+
 
 
 ## Results:
